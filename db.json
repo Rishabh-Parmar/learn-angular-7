@@ -1,4 +1,4 @@
-{
+[
   {
     "IncidentID": "INC0000053431",
     "EmpID": "789656",
@@ -31,4 +31,4 @@
     "Status": "Pending with user",
     "IncidentSummary": "This is the problem statement for INC0000053434."
   }
-}
+]
