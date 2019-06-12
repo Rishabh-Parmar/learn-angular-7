@@ -1,27 +1,27 @@
 {
   "examResult": [
     {
-    "id":1
-    "rollNo": "RN001"
+    "id":1,
+    "rollNo": "RN001",
     "marks":{
       "computer":78
       "english":89  
       "maths":94
       "science":95  
       "socialStudies":96
-    }
+    },
     "result": "pass"
     }
     {
-    "id":2
-    "rollNo": "RN002"
+    "id":2,
+    "rollNo": "RN002",
     "marks":{
       "computer":54
       "english":68  
       "maths":89
       "science":75  
       "socialStudies":86
-    }
+    },
     "result": "pass"
     }
     ],
