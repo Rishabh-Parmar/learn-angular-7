@@ -11,7 +11,10 @@
       "science":95,  
       "socialStudies":96
     },
-    "result": "pass"
+    "result": "pass",
+    "total": 500,
+    "totalMarks": 452,
+    "percentage": 90.4
     },
     {
     "id":2,
@@ -24,7 +27,10 @@
       "science":75,  
       "socialStudies":86
     },
-    "result": "pass"
+    "result": "pass",
+    "total": 500,
+    "totalMarks": 372,
+    "percentage": 74.4
     },
     {
     "id":3,
@@ -37,7 +43,10 @@
       "science":35,  
       "socialStudies":26
     },
-    "result": "fail"
+    "result": "fail",
+    "total": 500,
+    "totalMarks": 223,
+    "percentage": 44.6
     }
     ]
 }
