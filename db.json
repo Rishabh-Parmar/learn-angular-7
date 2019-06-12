@@ -3,6 +3,7 @@
     {
     "id":1,
     "rollNo": "RN001",
+    "name": "Bruce Wayne",
     "marks":{
       "computer":78,
       "english":89,
@@ -15,6 +16,7 @@
     {
     "id":2,
     "rollNo": "RN002",
+    "name": "Clark Kent",
     "marks":{
       "computer":54,
       "english":68,
@@ -27,6 +29,7 @@
     {
     "id":3,
     "rollNo": "RN003",
+    "name": "John Jones",
     "marks":{
       "computer":65,
       "english":58,
