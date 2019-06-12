@@ -23,6 +23,18 @@
       "socialStudies":86
     },
     "result": "pass"
+    },
+    {
+    "id":3,
+    "rollNo": "RN003",
+    "marks":{
+      "computer":65,
+      "english":58,
+      "maths":39,
+      "science":35,  
+      "socialStudies":26
+    },
+    "result": "fail"
     }
     ]
 }
