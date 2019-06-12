@@ -6,27 +6,27 @@
     "name": "Bruce Wayne",
     "marks":[
       {
-        "subjectName":"computer",
+        "subjectName":"Computer",
         "maxMarks":100,
         "marksObtained":78
       },
       {
-        "subjectName":"english",
+        "subjectName":"English",
         "maxMarks":100,
         "marksObtained":89
       },
       {
-        "subjectName":"maths",
+        "subjectName":"Mathematics",
         "maxMarks":100,
         "marksObtained":96
       },
       {
-        "subjectName":"science",
+        "subjectName":"Science",
         "maxMarks":100,
         "marksObtained":95
       },
       {
-        "subjectName":"socialStudies",
+        "subjectName":"Social Studies",
         "maxMarks":100,
         "marksObtained":94
       }
@@ -42,27 +42,27 @@
     "name": "Clark Kent",
     "marks":[
       {
-        "subjectName":"computer",
+        "subjectName":"Computer",
         "maxMarks":100,
         "marksObtained":54
       },
       {
-        "subjectName":"english",
+        "subjectName":"English",
         "maxMarks":100,
         "marksObtained":68
       },
       {
-        "subjectName":"maths",
+        "subjectName":"Mathematics",
         "maxMarks":100,
         "marksObtained":89
       },
       {
-        "subjectName":"science",
+        "subjectName":"Science",
         "maxMarks":100,
         "marksObtained":75
       },
       {
-        "subjectName":"socialStudies",
+        "subjectName":"Social Studies",
         "maxMarks":100,
         "marksObtained":86
       }
@@ -78,27 +78,27 @@
     "name": "John Jones",
     "marks":[
       {
-        "subjectName":"computer",
+        "subjectName":"Computer",
         "maxMarks":100,
         "marksObtained":65
       },
       {
-        "subjectName":"english",
+        "subjectName":"English",
         "maxMarks":100,
         "marksObtained":58
       },
       {
-        "subjectName":"maths",
+        "subjectName":"Mathematics",
         "maxMarks":100,
         "marksObtained":39
       },
       {
-        "subjectName":"science",
+        "subjectName":"Science",
         "maxMarks":100,
         "marksObtained":35
       },
       {
-        "subjectName":"socialStudies",
+        "subjectName":"Social Studies",
         "maxMarks":100,
         "marksObtained":26
       }
